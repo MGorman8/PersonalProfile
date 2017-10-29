@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Personal Profile</string>
+    <string name="txt_header">Mike</string>
+    <string name="txt_caption">Mike\'s Pirate Flag</string>
+    <string name="btn_view">View Profile</string>
+    <string name="txt_bio">Mike is married for over 10 years now. He has 4 kids. Mike is also really
+    struggling to understand Java/Android programing.</string>
+</resources>
